@@ -1,6 +1,6 @@
 # Hi, I'm Evgeny 👋
 
-Android Developer focused on building real applications with modern stack.
+Android Developer (Kotlin, Jetpack Compose) building production-ready apps
 
 ---
 
@@ -31,16 +31,16 @@ Android Developer focused on building real applications with modern stack.
 
 ### 🔹 Trener — Workout Tracking App
 
-Android application for tracking workouts and body weight with analytics.
+Android application with real-world features: workout tracking, analytics, and BLE device integration.
 
 👉 https://github.com/sudilovskiy/trener
 
-**Key features:**
-- Workout session tracking
-- Exercise progress analytics
-- BLE weight scale integration
-- Local database (Room)
-- Clean UI (Jetpack Compose)
+**Highlights:**
+- Multi-day workout tracking system
+- Progress analytics (current vs previous)
+- BLE scale integration (real device support)
+- Local database architecture (Room)
+- Built with Jetpack Compose
 
 ---
 
